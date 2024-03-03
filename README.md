@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola 👋
+
+Mi nombre es Federico Airala, soy técnico electromecánico, trabajo haciendo mantenimientos y montajes de equipos de media y alta tensión.
+Ahora me encuentro estudiando programación con orientación al análisis de datos.
 
 <!--
 **FedeAirala/FedeAirala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
